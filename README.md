@@ -1,1 +1,2 @@
-# My Flask Project
+------------------------
+Flask App by Isadora
